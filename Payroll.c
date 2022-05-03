@@ -92,5 +92,6 @@ switch(employeepaycode){
     break;
     
 }
+return 0;
 
 }
